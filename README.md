@@ -24,3 +24,10 @@ A modern Todo application built with HTML, CSS, and JavaScript.
 
 ## 👩‍💻 Author
 Farah Allouche
+## 🚀 Lien important
+
+### Code source (GitHub)
+https://github.com/FarahAllouche123/todo-App.git
+
+### Application en ligne (GitHub Pages)
+ https://farahallouche123.github.io/todo-App/
